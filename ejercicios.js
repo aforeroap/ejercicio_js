@@ -92,6 +92,47 @@ let numero2 = parseInt(prompt("Ingrese segundo numero: "))
 
 numero > numero2 ? alert("El numero mayor es: " + numero) : alert("El numero mayor es: " + numero2)*/
 
+// Crear un programa que determine si un string introducido por un usuario empieza con un número o con una letra.
+
+/*let nombre = prompt("Ingrese nombre: ")
+
+if (isNaN(nombre.charAt(0))) {
+
+    alert("Empieza por una letra")
+}
+else {
+    alert("Empieza por un numero")
+}*/
+
+// Crear un programa donde se introduzcan los tres ángulos internos de un triángulo y se determine si el triángulo es válido o no.
+
+/*let angulo_1 = parseInt(prompt("Ingrese angulo 1: "))
+let angulo_2 = parseInt(prompt("Ingrese angulo 2: "))
+let angulo_3 = parseInt(prompt("Ingrese angulo 3: "))
+
+if (angulo_1 + angulo_2 + angulo_3 == 180) {
+    alert("Los angulos del triangulo son validos")
+}
+
+else {
+    alert("Los angulos del triangulo son inválidos")
+}*/
+
+// Determinar si una palabra empieza con mayúscula o no. 
+
+/*let nombre = prompt("Ingrerse nombre")
+let primera_letra = (nombre.charAt(0))
+
+if (primera_letra === primera_letra.toUpperCase()) {
+    alert("La primera letra contiene mayuscula")
+}
+
+else {
+    alert("La primera letra contiene minuscula")
+}*/
+
+
+
 
 
 
